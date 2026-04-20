@@ -1,0 +1,64 @@
+{
+  "exams": [
+    {
+      "name": "JEE Main",
+      "full_name": "Joint Entrance Examination Main",
+      "for": "Engineering (BTech) admissions",
+      "conducted_by": "NTA",
+      "eligibility": "12th passed with PCM (minimum 75%)",
+      "exam_pattern": "90 MCQs (Physics, Chemistry, Maths)",
+      "frequency": "Twice a year (Jan & April)",
+      "difficulty": "High",
+      "preparation_time": "2 years recommended",
+      "resources": ["Physics Wallah", "Unacademy", "Vedantu", "Allen/Resonance material"]
+    },
+    {
+      "name": "NEET UG",
+      "full_name": "National Eligibility cum Entrance Test",
+      "for": "Medical (MBBS, BDS, AYUSH) admissions",
+      "conducted_by": "NTA",
+      "eligibility": "12th passed with PCB (minimum 50%)",
+      "exam_pattern": "180 MCQs (Physics, Chemistry, Biology)",
+      "frequency": "Once a year (May)",
+      "difficulty": "Very High",
+      "preparation_time": "2 years recommended",
+      "resources": ["NEET Wallah", "Aakash", "Allen", "NCERT (most important)"]
+    },
+    {
+      "name": "CLAT",
+      "full_name": "Common Law Admission Test",
+      "for": "Law (LLB) admissions in NLUs",
+      "conducted_by": "Consortium of NLUs",
+      "eligibility": "12th passed (any stream, 45%)",
+      "exam_pattern": "150 MCQs (English, GK, Legal, Logical, Quant)",
+      "frequency": "Once a year (December)",
+      "difficulty": "High",
+      "preparation_time": "1-2 years",
+      "resources": ["LawSikho", "Career Launcher", "IMS", "The Hindu (for GK)"]
+    },
+    {
+      "name": "NIFT Entrance",
+      "full_name": "National Institute of Fashion Technology",
+      "for": "Fashion Design, Technology",
+      "conducted_by": "NIFT",
+      "eligibility": "12th passed (any stream)",
+      "exam_pattern": "CAT (Creative Ability Test) + GAT (General Ability)",
+      "frequency": "Once a year (January)",
+      "difficulty": "Medium (Creativity based)",
+      "preparation_time": "1 year",
+      "resources": ["Portfolio building", "NIFT coaching centers", "YouTube design channels"]
+    },
+    {
+      "name": "NDA",
+      "full_name": "National Defence Academy",
+      "for": "Army, Navy, Air Force officer training",
+      "conducted_by": "UPSC",
+      "eligibility": "12th passed (PCM for Air Force, any for Army/Navy)",
+      "exam_pattern": "Maths + GAT + SSB Interview + Medical",
+      "frequency": "Twice a year",
+      "difficulty": "Very High (fitness + mental)",
+      "preparation_time": "1-2 years",
+      "resources": ["Baalnoi", "Cavalier", "SSBCrack", "Physical fitness training"]
+    }
+  ]
+}

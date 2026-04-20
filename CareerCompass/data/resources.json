@@ -1,0 +1,70 @@
+{
+  "resources": {
+    "engineering": {
+      "youtube": [
+        "Physics Wallah",
+        "Apna College",
+        "CodeWithHarry",
+        "Gate Smashers"
+      ],
+      "websites": [
+        "https://www.geeksforgeeks.org",
+        "https://leetcode.com",
+        "https://www.coursera.org"
+      ],
+      "books": [
+        "HC Verma (Physics)",
+        "RD Sharma (Maths)",
+        "NCERT (Chemistry)"
+      ]
+    },
+    "medical": {
+      "youtube": [
+        "NEET Wallah",
+        "Dr. Bhatia Medical",
+        "Physics Wallah NEET"
+      ],
+      "websites": [
+        "https://www.nta.ac.in",
+        "https://www.ncbi.nlm.nih.gov"
+      ],
+      "books": [
+        "NCERT Biology (Class 11 & 12)",
+        "Trueman's Biology",
+        "DC Pandey Physics"
+      ]
+    },
+    "design": {
+      "youtube": [
+        "The Futur",
+        "DesignBinge",
+        "Blender Guru"
+      ],
+      "websites": [
+        "https://www.behance.net",
+        "https://dribbble.com",
+        "https://www.figma.com"
+      ],
+      "books": [
+        "Don't Make Me Think",
+        "The Design of Everyday Things"
+      ]
+    },
+    "business": {
+      "youtube": [
+        "CA Wallah",
+        "DigitalDeepak",
+        "ThinkSchool"
+      ],
+      "websites": [
+        "https://www.icai.org",
+        "https://www.investopedia.com"
+      ],
+      "books": [
+        "Rich Dad Poor Dad",
+        "Zero to One",
+        "The Lean Startup"
+      ]
+    }
+  }
+}
